@@ -19,7 +19,6 @@ def long_planeteer_calls(words)
     return true
   else
     false
-    i = i + 1
   end
 end
 
