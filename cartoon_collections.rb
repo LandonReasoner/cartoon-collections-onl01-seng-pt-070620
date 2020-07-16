@@ -14,7 +14,7 @@ def summon_captain_planet(veggies)
 end
 
 def long_planeteer_calls(words)
-  i = 0 
+  i = 0
   if array.any? {|i| i.length < 4}
     return true
   else
